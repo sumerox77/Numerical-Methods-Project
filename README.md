@@ -1,2 +1,1 @@
-# Numerical-Methods
-Numerical Methods Project
+The implementation of Numerical Methods Project in Python
